@@ -1,0 +1,18 @@
+{
+  "name": "redux-fetch-blob-middleware",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "author": "iwangx",
+  "description": "React-native-fetch-blob middleware for Redux.",
+  "dependencies": {
+    "is-promise":"^2.1.0",
+    "flux-standard-action":"^2.0.3",
+  },
+  "license": "MIT",
+  "keywords": [
+    "redux",
+    "react-native-fetch-blob",
+    "middleware",
+    "redux-middleware"
+  ]
+}
