@@ -1,19 +1,19 @@
-# redux-fetch-blob-middleware
+# fetch-blob-redux-middleware
 
 
-[![npm version](https://img.shields.io/npm/v/redux-fetch-blob-middleware.svg)](https://www.npmjs.com/package/redux-fetch-blob-middleware)
-[![npm monthly downloads](https://img.shields.io/npm/dm/redux-fetch-blob-middleware.svg)](https://www.npmjs.com/package/redux-fetch-blob-middleware)
+[![npm version](https://img.shields.io/npm/v/fetch-blob-redux-middleware.svg)](https://www.npmjs.com/package/fetch-blob-redux-middleware)
+[![npm monthly downloads](https://img.shields.io/npm/dm/redux-fetch-blob-middleware.svg)](https://www.npmjs.com/package/fetch-blob-redux-middleware)
 
-[react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) redux middleware
+[fetch-blob-redux-middleware](https://github.com/wkh237/fetch-blob-redux-middleware) redux middleware
 
 ```javascript
-npm install --save redux-fetch-blob-middleware
+npm install --save fetch-blob-redux-middleware
 ```
 
 ## Usage
 
 ```javascript 
-import fetchBlobMiddleware from 'redux-fetch-blob-middleware'
+import fetchBlobMiddleware from 'fetch-blob-redux-middleware'
 ```
 
 When I use'react-native-fetch-blob'in conjunction with'redux' when I want to cancel the request, the'action'becomes harder and harder to write and the code repeats more and more, so I wrote this middleware to solve these problems.
