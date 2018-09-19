@@ -1,6 +1,6 @@
 {
   "name": "fetch-blob-redux-middleware",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "src/index.js",
   "author": "iwangx",
   "description": "React-native-fetch-blob middleware for Redux.",
@@ -14,5 +14,10 @@
     "react-native-fetch-blob",
     "middleware",
     "redux-middleware"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:iwangx/fetch-blob-redux-middleware.git"
+  },
+  "homepage": "https://github.com/iwangx/fetch-blob-redux-middleware",
 }
