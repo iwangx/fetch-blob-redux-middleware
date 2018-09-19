@@ -1,6 +1,6 @@
 {
   "name": "fetch-blob-redux-middleware",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "src/index.js",
   "author": "iwangx",
   "description": "React-native-fetch-blob middleware for Redux.",
